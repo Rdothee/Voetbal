@@ -10,7 +10,7 @@
 
 class Keeper : public Speler{
 public:
-    Keeper();
+    Keeper(string naam);
 
     virtual ~Keeper();
 

@@ -4,9 +4,15 @@
 
 #ifndef VOETBAL_AANVALLER_H
 #define VOETBAL_AANVALLER_H
-class Aanvaller{
+
+#include <bits/basic_string.h>
+#include "Speler.h"
+
+class Aanvaller: public Speler{
 public:
     Aanvaller();
+
+    Aanvaller(std::basic_string<char> naam);
 
     virtual ~Aanvaller();
 

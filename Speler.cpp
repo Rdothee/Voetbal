@@ -3,13 +3,34 @@
 //
 
 #include "Speler.h"
+#include "Loop.h"
+#include "Pas.h"
+#include<iostream>;
+using namespace std;
 
-Speler::Speler() {}
 
-Speler::~Speler() {
-
+Speler::Speler(string naam) {
+    this->naam = naam;
+    cout<<"maak speler aan"<<endl;
 }
 
-void Speler::loop() {
+Speler::~Speler() {
+    cout<<"verwijder speler"<<endl;
+}
 
+int Speler::getAantalPunten() const {
+    return aantalPunten;
+}
+
+void Speler::setAantalPunten(int aantalPunten) {
+    Speler::aantalPunten = aantalPunten;
+}
+
+void Speler::addActie(Actie * actie) {
+
+    acties.push_back(actie);
+}
+
+const vector<Actie *> &Speler::getActies() const {
+    return acties;
 }

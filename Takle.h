@@ -10,11 +10,14 @@
 
 class Takle : public Actie{
 private:
+ int aantalGoedeTackles;
+ int aantalSlechteTakles;
 
 public:
     Takle();
-
     virtual ~Takle();
+    void geslaagdeTakle();
+    void slechteTakle();
 };
 
 

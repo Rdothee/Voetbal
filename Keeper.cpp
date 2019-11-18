@@ -4,7 +4,7 @@
 
 #include "Keeper.h"
 
-Keeper::Keeper() {}
+Keeper::Keeper(string naam) : Speler(naam) {}
 
 Keeper::~Keeper() {
 

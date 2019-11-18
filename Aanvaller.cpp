@@ -3,8 +3,11 @@
 //
 
 #include "Aanvaller.h"
+#include <iostream>;
+using namespace std;
+Aanvaller::Aanvaller(string naam) : Speler(naam) {
 
-Aanvaller::Aanvaller() {}
+}
 
 Aanvaller::~Aanvaller() {
 

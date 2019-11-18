@@ -4,8 +4,18 @@
 
 #include "Takle.h"
 
-Takle::Takle() {}
+Takle::Takle() {
+
+}
 
 Takle::~Takle() {
+
+}
+
+void Takle::geslaagdeTakle() {
+
+}
+
+void Takle::slechteTakle() {
 
 }

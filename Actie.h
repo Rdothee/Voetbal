@@ -7,7 +7,10 @@
 
 
 class Actie {
+public:
+    Actie();
 
+    virtual ~Actie();
 };
 
 

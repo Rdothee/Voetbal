@@ -3,3 +3,12 @@
 //
 
 #include "Actie.h"
+#include <iostream>
+using namespace std;
+Actie::Actie() {
+    cout<<"maak nieuwe Actie"<<endl;
+}
+
+Actie::~Actie() {
+    cout<<"verwijder Actie"<<endl;
+}
