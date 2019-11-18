@@ -1,0 +1,3 @@
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/edit_cache.dir
