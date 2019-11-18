@@ -122,13 +122,125 @@ CMakeFiles/Voetbal.dir/Aanvaller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Aanvaller.cpp.s"
 	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Aanvaller.cpp -o CMakeFiles/Voetbal.dir/Aanvaller.cpp.s
 
+CMakeFiles/Voetbal.dir/Speler.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Speler.cpp.o: ../Speler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Voetbal.dir/Speler.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Speler.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.cpp
+
+CMakeFiles/Voetbal.dir/Speler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Speler.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.cpp > CMakeFiles/Voetbal.dir/Speler.cpp.i
+
+CMakeFiles/Voetbal.dir/Speler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Speler.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.cpp -o CMakeFiles/Voetbal.dir/Speler.cpp.s
+
+CMakeFiles/Voetbal.dir/Actie.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Actie.cpp.o: ../Actie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Voetbal.dir/Actie.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Actie.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.cpp
+
+CMakeFiles/Voetbal.dir/Actie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Actie.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.cpp > CMakeFiles/Voetbal.dir/Actie.cpp.i
+
+CMakeFiles/Voetbal.dir/Actie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Actie.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.cpp -o CMakeFiles/Voetbal.dir/Actie.cpp.s
+
+CMakeFiles/Voetbal.dir/Loop.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Loop.cpp.o: ../Loop.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Voetbal.dir/Loop.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Loop.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.cpp
+
+CMakeFiles/Voetbal.dir/Loop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Loop.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.cpp > CMakeFiles/Voetbal.dir/Loop.cpp.i
+
+CMakeFiles/Voetbal.dir/Loop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Loop.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.cpp -o CMakeFiles/Voetbal.dir/Loop.cpp.s
+
+CMakeFiles/Voetbal.dir/Pas.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Pas.cpp.o: ../Pas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Voetbal.dir/Pas.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Pas.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.cpp
+
+CMakeFiles/Voetbal.dir/Pas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Pas.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.cpp > CMakeFiles/Voetbal.dir/Pas.cpp.i
+
+CMakeFiles/Voetbal.dir/Pas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Pas.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.cpp -o CMakeFiles/Voetbal.dir/Pas.cpp.s
+
+CMakeFiles/Voetbal.dir/Schiet.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Schiet.cpp.o: ../Schiet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Voetbal.dir/Schiet.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Schiet.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Schiet.cpp
+
+CMakeFiles/Voetbal.dir/Schiet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Schiet.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Schiet.cpp > CMakeFiles/Voetbal.dir/Schiet.cpp.i
+
+CMakeFiles/Voetbal.dir/Schiet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Schiet.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Schiet.cpp -o CMakeFiles/Voetbal.dir/Schiet.cpp.s
+
+CMakeFiles/Voetbal.dir/Takle.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Takle.cpp.o: ../Takle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Voetbal.dir/Takle.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Takle.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.cpp
+
+CMakeFiles/Voetbal.dir/Takle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Takle.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.cpp > CMakeFiles/Voetbal.dir/Takle.cpp.i
+
+CMakeFiles/Voetbal.dir/Takle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Takle.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.cpp -o CMakeFiles/Voetbal.dir/Takle.cpp.s
+
+CMakeFiles/Voetbal.dir/Redding.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Redding.cpp.o: ../Redding.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Voetbal.dir/Redding.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Redding.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Redding.cpp
+
+CMakeFiles/Voetbal.dir/Redding.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Redding.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Redding.cpp > CMakeFiles/Voetbal.dir/Redding.cpp.i
+
+CMakeFiles/Voetbal.dir/Redding.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Redding.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Redding.cpp -o CMakeFiles/Voetbal.dir/Redding.cpp.s
+
+CMakeFiles/Voetbal.dir/Opraap.cpp.o: CMakeFiles/Voetbal.dir/flags.make
+CMakeFiles/Voetbal.dir/Opraap.cpp.o: ../Opraap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Voetbal.dir/Opraap.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Voetbal.dir/Opraap.cpp.o -c /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.cpp
+
+CMakeFiles/Voetbal.dir/Opraap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Voetbal.dir/Opraap.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.cpp > CMakeFiles/Voetbal.dir/Opraap.cpp.i
+
+CMakeFiles/Voetbal.dir/Opraap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Voetbal.dir/Opraap.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.cpp -o CMakeFiles/Voetbal.dir/Opraap.cpp.s
+
 # Object files for target Voetbal
 Voetbal_OBJECTS = \
 "CMakeFiles/Voetbal.dir/main.cpp.o" \
 "CMakeFiles/Voetbal.dir/Keeper.cpp.o" \
 "CMakeFiles/Voetbal.dir/Verdediger.cpp.o" \
 "CMakeFiles/Voetbal.dir/Middenvelder.cpp.o" \
-"CMakeFiles/Voetbal.dir/Aanvaller.cpp.o"
+"CMakeFiles/Voetbal.dir/Aanvaller.cpp.o" \
+"CMakeFiles/Voetbal.dir/Speler.cpp.o" \
+"CMakeFiles/Voetbal.dir/Actie.cpp.o" \
+"CMakeFiles/Voetbal.dir/Loop.cpp.o" \
+"CMakeFiles/Voetbal.dir/Pas.cpp.o" \
+"CMakeFiles/Voetbal.dir/Schiet.cpp.o" \
+"CMakeFiles/Voetbal.dir/Takle.cpp.o" \
+"CMakeFiles/Voetbal.dir/Redding.cpp.o" \
+"CMakeFiles/Voetbal.dir/Opraap.cpp.o"
 
 # External object files for target Voetbal
 Voetbal_EXTERNAL_OBJECTS =
@@ -138,9 +250,17 @@ Voetbal.exe: CMakeFiles/Voetbal.dir/Keeper.cpp.o
 Voetbal.exe: CMakeFiles/Voetbal.dir/Verdediger.cpp.o
 Voetbal.exe: CMakeFiles/Voetbal.dir/Middenvelder.cpp.o
 Voetbal.exe: CMakeFiles/Voetbal.dir/Aanvaller.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Speler.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Actie.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Loop.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Pas.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Schiet.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Takle.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Redding.cpp.o
+Voetbal.exe: CMakeFiles/Voetbal.dir/Opraap.cpp.o
 Voetbal.exe: CMakeFiles/Voetbal.dir/build.make
 Voetbal.exe: CMakeFiles/Voetbal.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Voetbal.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable Voetbal.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Voetbal.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

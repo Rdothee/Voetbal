@@ -9,3 +9,7 @@ Keeper::Keeper() {}
 Keeper::~Keeper() {
 
 }
+
+void Keeper::Keep() {
+
+}

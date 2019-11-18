@@ -9,3 +9,7 @@ Middenvelder::Middenvelder() {}
 Middenvelder::~Middenvelder() {
 
 }
+
+void Middenvelder::pass() {
+
+}

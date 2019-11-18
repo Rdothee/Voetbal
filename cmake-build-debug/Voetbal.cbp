@@ -86,16 +86,64 @@
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Aanvaller.h">
 			<Option target="Voetbal"/>
 		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.h">
+			<Option target="Voetbal"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Keeper.cpp">
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Keeper.h">
 			<Option target="Voetbal"/>
 		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.h">
+			<Option target="Voetbal"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Middenvelder.cpp">
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Middenvelder.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Redding.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Redding.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Schiet.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Schiet.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.h">
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Verdediger.cpp">

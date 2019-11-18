@@ -9,3 +9,7 @@ Verdediger::Verdediger() {}
 Verdediger::~Verdediger() {
 
 }
+
+void Verdediger::verdedig() {
+
+}

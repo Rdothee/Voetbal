@@ -150,6 +150,33 @@ Aanvaller.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Aanvaller.cpp.s
 .PHONY : Aanvaller.cpp.s
 
+Actie.o: Actie.cpp.o
+
+.PHONY : Actie.o
+
+# target to build an object file
+Actie.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Actie.cpp.o
+.PHONY : Actie.cpp.o
+
+Actie.i: Actie.cpp.i
+
+.PHONY : Actie.i
+
+# target to preprocess a source file
+Actie.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Actie.cpp.i
+.PHONY : Actie.cpp.i
+
+Actie.s: Actie.cpp.s
+
+.PHONY : Actie.s
+
+# target to generate assembly for a file
+Actie.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Actie.cpp.s
+.PHONY : Actie.cpp.s
+
 Keeper.o: Keeper.cpp.o
 
 .PHONY : Keeper.o
@@ -177,6 +204,33 @@ Keeper.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Keeper.cpp.s
 .PHONY : Keeper.cpp.s
 
+Loop.o: Loop.cpp.o
+
+.PHONY : Loop.o
+
+# target to build an object file
+Loop.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Loop.cpp.o
+.PHONY : Loop.cpp.o
+
+Loop.i: Loop.cpp.i
+
+.PHONY : Loop.i
+
+# target to preprocess a source file
+Loop.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Loop.cpp.i
+.PHONY : Loop.cpp.i
+
+Loop.s: Loop.cpp.s
+
+.PHONY : Loop.s
+
+# target to generate assembly for a file
+Loop.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Loop.cpp.s
+.PHONY : Loop.cpp.s
+
 Middenvelder.o: Middenvelder.cpp.o
 
 .PHONY : Middenvelder.o
@@ -203,6 +257,168 @@ Middenvelder.s: Middenvelder.cpp.s
 Middenvelder.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Middenvelder.cpp.s
 .PHONY : Middenvelder.cpp.s
+
+Opraap.o: Opraap.cpp.o
+
+.PHONY : Opraap.o
+
+# target to build an object file
+Opraap.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Opraap.cpp.o
+.PHONY : Opraap.cpp.o
+
+Opraap.i: Opraap.cpp.i
+
+.PHONY : Opraap.i
+
+# target to preprocess a source file
+Opraap.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Opraap.cpp.i
+.PHONY : Opraap.cpp.i
+
+Opraap.s: Opraap.cpp.s
+
+.PHONY : Opraap.s
+
+# target to generate assembly for a file
+Opraap.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Opraap.cpp.s
+.PHONY : Opraap.cpp.s
+
+Pas.o: Pas.cpp.o
+
+.PHONY : Pas.o
+
+# target to build an object file
+Pas.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Pas.cpp.o
+.PHONY : Pas.cpp.o
+
+Pas.i: Pas.cpp.i
+
+.PHONY : Pas.i
+
+# target to preprocess a source file
+Pas.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Pas.cpp.i
+.PHONY : Pas.cpp.i
+
+Pas.s: Pas.cpp.s
+
+.PHONY : Pas.s
+
+# target to generate assembly for a file
+Pas.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Pas.cpp.s
+.PHONY : Pas.cpp.s
+
+Redding.o: Redding.cpp.o
+
+.PHONY : Redding.o
+
+# target to build an object file
+Redding.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Redding.cpp.o
+.PHONY : Redding.cpp.o
+
+Redding.i: Redding.cpp.i
+
+.PHONY : Redding.i
+
+# target to preprocess a source file
+Redding.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Redding.cpp.i
+.PHONY : Redding.cpp.i
+
+Redding.s: Redding.cpp.s
+
+.PHONY : Redding.s
+
+# target to generate assembly for a file
+Redding.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Redding.cpp.s
+.PHONY : Redding.cpp.s
+
+Schiet.o: Schiet.cpp.o
+
+.PHONY : Schiet.o
+
+# target to build an object file
+Schiet.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Schiet.cpp.o
+.PHONY : Schiet.cpp.o
+
+Schiet.i: Schiet.cpp.i
+
+.PHONY : Schiet.i
+
+# target to preprocess a source file
+Schiet.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Schiet.cpp.i
+.PHONY : Schiet.cpp.i
+
+Schiet.s: Schiet.cpp.s
+
+.PHONY : Schiet.s
+
+# target to generate assembly for a file
+Schiet.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Schiet.cpp.s
+.PHONY : Schiet.cpp.s
+
+Speler.o: Speler.cpp.o
+
+.PHONY : Speler.o
+
+# target to build an object file
+Speler.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Speler.cpp.o
+.PHONY : Speler.cpp.o
+
+Speler.i: Speler.cpp.i
+
+.PHONY : Speler.i
+
+# target to preprocess a source file
+Speler.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Speler.cpp.i
+.PHONY : Speler.cpp.i
+
+Speler.s: Speler.cpp.s
+
+.PHONY : Speler.s
+
+# target to generate assembly for a file
+Speler.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Speler.cpp.s
+.PHONY : Speler.cpp.s
+
+Takle.o: Takle.cpp.o
+
+.PHONY : Takle.o
+
+# target to build an object file
+Takle.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Takle.cpp.o
+.PHONY : Takle.cpp.o
+
+Takle.i: Takle.cpp.i
+
+.PHONY : Takle.i
+
+# target to preprocess a source file
+Takle.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Takle.cpp.i
+.PHONY : Takle.cpp.i
+
+Takle.s: Takle.cpp.s
+
+.PHONY : Takle.s
+
+# target to generate assembly for a file
+Takle.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Takle.cpp.s
+.PHONY : Takle.cpp.s
 
 Verdediger.o: Verdediger.cpp.o
 
@@ -270,12 +486,36 @@ help:
 	@echo "... Aanvaller.o"
 	@echo "... Aanvaller.i"
 	@echo "... Aanvaller.s"
+	@echo "... Actie.o"
+	@echo "... Actie.i"
+	@echo "... Actie.s"
 	@echo "... Keeper.o"
 	@echo "... Keeper.i"
 	@echo "... Keeper.s"
+	@echo "... Loop.o"
+	@echo "... Loop.i"
+	@echo "... Loop.s"
 	@echo "... Middenvelder.o"
 	@echo "... Middenvelder.i"
 	@echo "... Middenvelder.s"
+	@echo "... Opraap.o"
+	@echo "... Opraap.i"
+	@echo "... Opraap.s"
+	@echo "... Pas.o"
+	@echo "... Pas.i"
+	@echo "... Pas.s"
+	@echo "... Redding.o"
+	@echo "... Redding.i"
+	@echo "... Redding.s"
+	@echo "... Schiet.o"
+	@echo "... Schiet.i"
+	@echo "... Schiet.s"
+	@echo "... Speler.o"
+	@echo "... Speler.i"
+	@echo "... Speler.s"
+	@echo "... Takle.o"
+	@echo "... Takle.i"
+	@echo "... Takle.s"
 	@echo "... Verdediger.o"
 	@echo "... Verdediger.i"
 	@echo "... Verdediger.s"

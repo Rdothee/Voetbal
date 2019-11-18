@@ -6,4 +6,6 @@
 
 Aanvaller::Aanvaller() {}
 
-Aanvaller::~Aanvaller() {}
+Aanvaller::~Aanvaller() {
+
+}

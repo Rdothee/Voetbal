@@ -6,7 +6,9 @@
 #define VOETBAL_KEEPER_H
 
 
-class Keeper {
+#include "Speler.h"
+
+class Keeper : public Speler{
 public:
     Keeper();
 

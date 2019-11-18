@@ -6,7 +6,9 @@
 #define VOETBAL_VERDEDIGER_H
 
 
-class Verdediger {
+#include "Speler.h"
+
+class Verdediger : public Speler{
 public:
     Verdediger();
 
