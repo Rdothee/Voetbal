@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Voetbal.dir/Aanvaller.cpp.o"
+  "CMakeFiles/Voetbal.dir/Keeper.cpp.o"
+  "CMakeFiles/Voetbal.dir/Middenvelder.cpp.o"
+  "CMakeFiles/Voetbal.dir/Verdediger.cpp.o"
   "CMakeFiles/Voetbal.dir/main.cpp.o"
   "Voetbal.exe"
   "Voetbal.pdb"

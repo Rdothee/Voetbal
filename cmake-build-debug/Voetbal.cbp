@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Aanvaller.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Aanvaller.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Keeper.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Keeper.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Middenvelder.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Middenvelder.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Verdediger.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Verdediger.h">
+			<Option target="Voetbal"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/main.cpp">
 			<Option target="Voetbal"/>
 		</Unit>

@@ -123,6 +123,114 @@ Voetbal/fast:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/build
 .PHONY : Voetbal/fast
 
+Aanvaller.o: Aanvaller.cpp.o
+
+.PHONY : Aanvaller.o
+
+# target to build an object file
+Aanvaller.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Aanvaller.cpp.o
+.PHONY : Aanvaller.cpp.o
+
+Aanvaller.i: Aanvaller.cpp.i
+
+.PHONY : Aanvaller.i
+
+# target to preprocess a source file
+Aanvaller.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Aanvaller.cpp.i
+.PHONY : Aanvaller.cpp.i
+
+Aanvaller.s: Aanvaller.cpp.s
+
+.PHONY : Aanvaller.s
+
+# target to generate assembly for a file
+Aanvaller.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Aanvaller.cpp.s
+.PHONY : Aanvaller.cpp.s
+
+Keeper.o: Keeper.cpp.o
+
+.PHONY : Keeper.o
+
+# target to build an object file
+Keeper.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Keeper.cpp.o
+.PHONY : Keeper.cpp.o
+
+Keeper.i: Keeper.cpp.i
+
+.PHONY : Keeper.i
+
+# target to preprocess a source file
+Keeper.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Keeper.cpp.i
+.PHONY : Keeper.cpp.i
+
+Keeper.s: Keeper.cpp.s
+
+.PHONY : Keeper.s
+
+# target to generate assembly for a file
+Keeper.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Keeper.cpp.s
+.PHONY : Keeper.cpp.s
+
+Middenvelder.o: Middenvelder.cpp.o
+
+.PHONY : Middenvelder.o
+
+# target to build an object file
+Middenvelder.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Middenvelder.cpp.o
+.PHONY : Middenvelder.cpp.o
+
+Middenvelder.i: Middenvelder.cpp.i
+
+.PHONY : Middenvelder.i
+
+# target to preprocess a source file
+Middenvelder.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Middenvelder.cpp.i
+.PHONY : Middenvelder.cpp.i
+
+Middenvelder.s: Middenvelder.cpp.s
+
+.PHONY : Middenvelder.s
+
+# target to generate assembly for a file
+Middenvelder.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Middenvelder.cpp.s
+.PHONY : Middenvelder.cpp.s
+
+Verdediger.o: Verdediger.cpp.o
+
+.PHONY : Verdediger.o
+
+# target to build an object file
+Verdediger.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Verdediger.cpp.o
+.PHONY : Verdediger.cpp.o
+
+Verdediger.i: Verdediger.cpp.i
+
+.PHONY : Verdediger.i
+
+# target to preprocess a source file
+Verdediger.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Verdediger.cpp.i
+.PHONY : Verdediger.cpp.i
+
+Verdediger.s: Verdediger.cpp.s
+
+.PHONY : Verdediger.s
+
+# target to generate assembly for a file
+Verdediger.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Verdediger.cpp.s
+.PHONY : Verdediger.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Voetbal"
 	@echo "... edit_cache"
+	@echo "... Aanvaller.o"
+	@echo "... Aanvaller.i"
+	@echo "... Aanvaller.s"
+	@echo "... Keeper.o"
+	@echo "... Keeper.i"
+	@echo "... Keeper.s"
+	@echo "... Middenvelder.o"
+	@echo "... Middenvelder.i"
+	@echo "... Middenvelder.s"
+	@echo "... Verdediger.o"
+	@echo "... Verdediger.i"
+	@echo "... Verdediger.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
