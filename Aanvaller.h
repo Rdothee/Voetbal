@@ -16,5 +16,7 @@ public:
 
     virtual ~Aanvaller();
 
+
+
 };
 #endif //VOETBAL_AANVALLER_H

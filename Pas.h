@@ -13,7 +13,7 @@ private:
     int aantalGeslaagdePasses;
     int aantalSlechtePasses;
 public:
-    Pas();
+    Pas(bool geslaagd);
     virtual ~Pas();
     void goeiePas();
     void slechtePas();

@@ -4,12 +4,12 @@
 
 #include "Middenvelder.h"
 
-Middenvelder::Middenvelder() {}
+Middenvelder::Middenvelder(string naam) : Speler(naam) {}
 
 Middenvelder::~Middenvelder() {
 
 }
 
-void Middenvelder::pass() {
 
-}
+
+

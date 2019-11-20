@@ -4,18 +4,19 @@
 
 #include "Takle.h"
 
-Takle::Takle() {
-
+Takle::Takle(bool geslaagd) {
+    if(geslaagd){aantalGoedeTackles++;}
+    else{aantalSlechteTakles++;}
 }
 
 Takle::~Takle() {
 
 }
 
-void Takle::geslaagdeTakle() {
-
+int Takle::getAantalGoedeTackles() const {
+    return aantalGoedeTackles;
 }
 
-void Takle::slechteTakle() {
-
+int Takle::getAantalSlechteTakles() const {
+    return aantalSlechteTakles;
 }

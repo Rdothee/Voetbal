@@ -6,13 +6,16 @@
 #define VOETBAL_MIDDENVELDER_H
 
 
-class Middenvelder {
+#include "Speler.h"
+
+class Middenvelder : public Speler {
+
+
 public:
-    Middenvelder();
+    Middenvelder(string naam);
 
     virtual ~Middenvelder();
-    void pass();
-
+    int getAantalTakles();
 
 };
 

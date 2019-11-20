@@ -15,6 +15,7 @@ Speler::Speler(string naam) {
 }
 
 Speler::~Speler() {
+    for(int i=0;i<acties.size();i++){delete acties[i];}
     cout<<"verwijder speler"<<endl;
 }
 

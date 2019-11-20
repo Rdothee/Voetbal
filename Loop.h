@@ -13,7 +13,7 @@ private:
     int aantalKmGelopen;
 public:
     void loopAfstand();
-    Loop();
+    Loop(int aantalGelopenKm);
     virtual ~Loop();
 
     int getAantalKmGelopen() const;

@@ -14,10 +14,14 @@ private:
  int aantalSlechteTakles;
 
 public:
-    Takle();
+    Takle(bool geslaagd);
     virtual ~Takle();
-    void geslaagdeTakle();
+    int geslaagdeTakle();
     void slechteTakle();
+
+    int getAantalGoedeTackles() const;
+
+    int getAantalSlechteTakles() const;
 };
 
 

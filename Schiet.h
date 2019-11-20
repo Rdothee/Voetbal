@@ -14,7 +14,7 @@ private:
     int aantalSchoten;
     int goals;
 public:
-    Schiet();
+    Schiet(bool gescoord);
     void schietOpDoel();
     void schietMis();
     void schietEnScoort();

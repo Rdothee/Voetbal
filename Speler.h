@@ -12,8 +12,9 @@ using namespace std;
 class Speler {
 private:
    int aantalPunten;
-   std::vector<Actie*> acties;
    string naam;
+protected:
+    std::vector<Actie*> acties;
 public:
     Speler(string naam);
 
@@ -23,6 +24,7 @@ public:
 
     void setAantalPunten(int aantalPunten);
     void addActie(Actie * actie);
+
 
     const vector<Actie *> &getActies() const;
 };

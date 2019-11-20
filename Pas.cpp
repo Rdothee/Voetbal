@@ -4,7 +4,14 @@
 
 #include "Pas.h"
 
-Pas::Pas() {}
+Pas::Pas(bool geslaagd) {
+    if (geslaagd) {
+        aantalGeslaagdePasses++;
+
+    } else {
+        aantalSlechtePasses++;
+    }
+}
 
 Pas::~Pas() {
 

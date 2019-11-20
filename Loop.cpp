@@ -3,11 +3,11 @@
 //
 
 #include "Loop.h"
-int aantalKmGelopen;
 
 
-Loop::Loop() {
 
+Loop::Loop(int aantalGelopenKm) {
+    this->aantalKmGelopen += aantalGelopenKm;
 }
 
 Loop::~Loop() {
@@ -20,6 +20,3 @@ int Loop::getAantalKmGelopen() const {
     return aantalKmGelopen;
 }
 
-void Loop::loopAfstand() {
-    aantalKmGelopen++;
-}

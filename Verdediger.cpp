@@ -4,7 +4,7 @@
 
 #include "Verdediger.h"
 
-Verdediger::Verdediger() {}
+Verdediger::Verdediger(string naam) : Speler(naam) {}
 
 Verdediger::~Verdediger() {
 

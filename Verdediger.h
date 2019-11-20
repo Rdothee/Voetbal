@@ -10,7 +10,7 @@
 
 class Verdediger : public Speler{
 public:
-    Verdediger();
+    Verdediger(string naam);
 
     virtual ~Verdediger();
     void verdedig();

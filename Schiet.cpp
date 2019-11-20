@@ -3,18 +3,25 @@
 //
 
 #include "Schiet.h"
+
 int aantalSchotenOpDoel;
 int aantalSchoten;
 int goals;
 
-Schiet::Schiet() {}
+Schiet::Schiet(bool gescoord) {
+    if (gescoord) { goals++; }
+    else { aantalSchotenOpDoel++; };
+    aantalSchoten++;
+}
+
+}
 
 Schiet::~Schiet() {
 
 }
 
 void Schiet::schietOpDoel() {
-   aantalSchotenOpDoel++;
+    aantalSchotenOpDoel++;
 }
 
 void Schiet::schietMis() {

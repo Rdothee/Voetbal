@@ -14,7 +14,6 @@ public:
 
     virtual ~Keeper();
 
-    void Keep();
 };
 
 
