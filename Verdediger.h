@@ -9,6 +9,10 @@
 #include "Speler.h"
 
 class Verdediger : public Speler{
+private:
+    int aantalGeslaagdeTakles;
+    int aantalGefaaldeTakles;
+    int aantalTakles;
 public:
     Verdediger(string naam);
 
@@ -16,6 +20,13 @@ public:
     void verdedig();
 
 
+    void tackleStatistiek();
+
+    int getAantalGeslaagdeTakles() const;
+
+    int getAantalGefaaldeTakles() const;
+
+    int getAantalTakles() const;
 };
 
 

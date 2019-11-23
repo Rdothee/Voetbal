@@ -9,37 +9,15 @@ int aantalSchoten;
 int goals;
 
 Schiet::Schiet(bool gescoord) {
-    if (gescoord) { goals++; }
-    else { aantalSchotenOpDoel++; };
-    aantalSchoten++;
+   this->gescoord = gescoord;
 }
 
 }
-
+Schiet::Schiet(){}
 Schiet::~Schiet() {
 
 }
 
-void Schiet::schietOpDoel() {
-    aantalSchotenOpDoel++;
-}
-
-void Schiet::schietMis() {
-    aantalSchoten++;
-}
-
-void Schiet::schietEnScoort() {
-    goals++;
-}
-
-int Schiet::getAantalSchotenOpDoel() const {
-    return aantalSchotenOpDoel;
-}
-
-int Schiet::getAantalSchoten() const {
-    return aantalSchoten;
-}
-
-int Schiet::getGoals() const {
-    return goals;
+bool Schiet::isGescoord() const {
+    return gescoord;
 }

@@ -9,7 +9,10 @@
 #include "Speler.h"
 
 class Middenvelder : public Speler {
-
+private:
+    int aantalGeslaagdePasses;
+    int aantalSlechtePasses;
+    int aantalPasses;
 
 public:
     Middenvelder(string naam);
@@ -17,6 +20,13 @@ public:
     virtual ~Middenvelder();
     int getAantalTakles();
 
+    void pasStatistieken(bool geslaagd);
+
+    int getAantalGeslaagdePasses() const;
+
+    int getAantalSlechtePasses() const;
+
+    int getAantalPasses() const;
 };
 
 

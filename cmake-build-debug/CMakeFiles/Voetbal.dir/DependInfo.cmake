@@ -6,15 +6,16 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Aanvaller.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Aanvaller.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Actie.cpp.o"
+  "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/BalOnderscheppen.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Keeper.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Keeper.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Loop.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Middenvelder.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Middenvelder.cpp.o"
-  "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Opraap.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Pas.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Redding.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Redding.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Schiet.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Schiet.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Speler.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Takle.cpp.o"
+  "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Team.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Team.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Verdediger.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/Verdediger.cpp.o"
   "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/main.cpp" "/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/cmake-build-debug/CMakeFiles/Voetbal.dir/main.cpp.o"
   )

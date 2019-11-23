@@ -10,14 +10,17 @@
 
 class Loop : public Actie{
 private:
-    int aantalKmGelopen;
+
+    double aantalKm=0;
+
 public:
-    void loopAfstand();
-    Loop(int aantalGelopenKm);
+    Loop(bool langeAfstand);
     virtual ~Loop();
 
-    int getAantalKmGelopen() const;
+    double getAantalKm() const;
 
+
+    Loop();
 };
 
 

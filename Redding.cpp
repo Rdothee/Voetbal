@@ -4,12 +4,15 @@
 
 #include "Redding.h"
 
+Redding::Redding(bool geslaagd) {
+    this->redding = geslaagd;
+}
 Redding::Redding() {}
 
 Redding::~Redding() {
 
 }
 
-void Redding::red() {
-    aantalReddingen++;
+bool Redding::isRedding() const {
+    return redding;
 }

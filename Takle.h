@@ -10,8 +10,9 @@
 
 class Takle : public Actie{
 private:
- int aantalGoedeTackles;
- int aantalSlechteTakles;
+    Takle();
+
+    bool geslaagd;
 
 public:
     Takle(bool geslaagd);
@@ -19,9 +20,9 @@ public:
     int geslaagdeTakle();
     void slechteTakle();
 
-    int getAantalGoedeTackles() const;
+    bool isGeslaagd() const;
 
-    int getAantalSlechteTakles() const;
+
 };
 
 

@@ -177,6 +177,33 @@ Actie.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Actie.cpp.s
 .PHONY : Actie.cpp.s
 
+BalOnderscheppen.o: BalOnderscheppen.cpp.o
+
+.PHONY : BalOnderscheppen.o
+
+# target to build an object file
+BalOnderscheppen.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.o
+.PHONY : BalOnderscheppen.cpp.o
+
+BalOnderscheppen.i: BalOnderscheppen.cpp.i
+
+.PHONY : BalOnderscheppen.i
+
+# target to preprocess a source file
+BalOnderscheppen.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.i
+.PHONY : BalOnderscheppen.cpp.i
+
+BalOnderscheppen.s: BalOnderscheppen.cpp.s
+
+.PHONY : BalOnderscheppen.s
+
+# target to generate assembly for a file
+BalOnderscheppen.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.s
+.PHONY : BalOnderscheppen.cpp.s
+
 Keeper.o: Keeper.cpp.o
 
 .PHONY : Keeper.o
@@ -257,33 +284,6 @@ Middenvelder.s: Middenvelder.cpp.s
 Middenvelder.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Middenvelder.cpp.s
 .PHONY : Middenvelder.cpp.s
-
-Opraap.o: Opraap.cpp.o
-
-.PHONY : Opraap.o
-
-# target to build an object file
-Opraap.cpp.o:
-	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Opraap.cpp.o
-.PHONY : Opraap.cpp.o
-
-Opraap.i: Opraap.cpp.i
-
-.PHONY : Opraap.i
-
-# target to preprocess a source file
-Opraap.cpp.i:
-	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Opraap.cpp.i
-.PHONY : Opraap.cpp.i
-
-Opraap.s: Opraap.cpp.s
-
-.PHONY : Opraap.s
-
-# target to generate assembly for a file
-Opraap.cpp.s:
-	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Opraap.cpp.s
-.PHONY : Opraap.cpp.s
 
 Pas.o: Pas.cpp.o
 
@@ -420,6 +420,33 @@ Takle.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Takle.cpp.s
 .PHONY : Takle.cpp.s
 
+Team.o: Team.cpp.o
+
+.PHONY : Team.o
+
+# target to build an object file
+Team.cpp.o:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Team.cpp.o
+.PHONY : Team.cpp.o
+
+Team.i: Team.cpp.i
+
+.PHONY : Team.i
+
+# target to preprocess a source file
+Team.cpp.i:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Team.cpp.i
+.PHONY : Team.cpp.i
+
+Team.s: Team.cpp.s
+
+.PHONY : Team.s
+
+# target to generate assembly for a file
+Team.cpp.s:
+	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Team.cpp.s
+.PHONY : Team.cpp.s
+
 Verdediger.o: Verdediger.cpp.o
 
 .PHONY : Verdediger.o
@@ -489,6 +516,9 @@ help:
 	@echo "... Actie.o"
 	@echo "... Actie.i"
 	@echo "... Actie.s"
+	@echo "... BalOnderscheppen.o"
+	@echo "... BalOnderscheppen.i"
+	@echo "... BalOnderscheppen.s"
 	@echo "... Keeper.o"
 	@echo "... Keeper.i"
 	@echo "... Keeper.s"
@@ -498,9 +528,6 @@ help:
 	@echo "... Middenvelder.o"
 	@echo "... Middenvelder.i"
 	@echo "... Middenvelder.s"
-	@echo "... Opraap.o"
-	@echo "... Opraap.i"
-	@echo "... Opraap.s"
 	@echo "... Pas.o"
 	@echo "... Pas.i"
 	@echo "... Pas.s"
@@ -516,6 +543,9 @@ help:
 	@echo "... Takle.o"
 	@echo "... Takle.i"
 	@echo "... Takle.s"
+	@echo "... Team.o"
+	@echo "... Team.i"
+	@echo "... Team.s"
 	@echo "... Verdediger.o"
 	@echo "... Verdediger.i"
 	@echo "... Verdediger.s"

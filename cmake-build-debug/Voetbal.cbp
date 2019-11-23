@@ -92,6 +92,12 @@
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.h">
 			<Option target="Voetbal"/>
 		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/BalOnderscheppen.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/BalOnderscheppen.h">
+			<Option target="Voetbal"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Keeper.cpp">
 			<Option target="Voetbal"/>
 		</Unit>
@@ -108,12 +114,6 @@
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Middenvelder.h">
-			<Option target="Voetbal"/>
-		</Unit>
-		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.cpp">
-			<Option target="Voetbal"/>
-		</Unit>
-		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Opraap.h">
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.cpp">
@@ -144,6 +144,12 @@
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Takle.h">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Team.cpp">
+			<Option target="Voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Team.h">
 			<Option target="Voetbal"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Verdediger.cpp">

@@ -28,10 +28,24 @@ void Speler::setAantalPunten(int aantalPunten) {
 }
 
 void Speler::addActie(Actie * actie) {
-
     acties.push_back(actie);
 }
 
-const vector<Actie *> &Speler::getActies() const {
+const string &Speler::getNaam() const {
+    return naam;
+}
+
+vector<Actie *> &Speler::getActies()  {
     return acties;
 }
+
+double Speler::loop() {
+    for(vector<Actie *>::iterator it = acties.begin();it != acties.end();++it){
+        Loop* loop = dynamic_cast<Loop*>(*it);
+        if(loop != NULL){
+            this->aantalGelopenkm += loop->getAantalKm();
+        }
+    }
+    return aantalGelopenkm;
+}
+

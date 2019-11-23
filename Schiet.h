@@ -10,9 +10,8 @@
 
 class Schiet : public Actie{
 private:
-    int aantalSchotenOpDoel;
-    int aantalSchoten;
-    int goals;
+    Schiet();
+    bool gescoord;
 public:
     Schiet(bool gescoord);
     void schietOpDoel();
@@ -25,6 +24,8 @@ public:
     int getAantalSchoten() const;
 
     int getGoals() const;
+
+    bool isGescoord() const;
 };
 
 

@@ -9,10 +9,19 @@
 #include "Speler.h"
 
 class Keeper : public Speler{
+private:
+    void reddingStatistiek();
+    int aantalReddingen;
+    int aantalTegenGoals;
 public:
     Keeper(string naam);
 
     virtual ~Keeper();
+
+    int getAantalReddingen() const;
+
+    int getAantalTegenGoals() const;
+
 
 };
 

@@ -13,8 +13,8 @@ class Speler {
 private:
    int aantalPunten;
    string naam;
-protected:
-    std::vector<Actie*> acties;
+   double aantalGelopenkm;
+   vector<Actie*> acties;
 public:
     Speler(string naam);
 
@@ -27,6 +27,12 @@ public:
 
 
     const vector<Actie *> &getActies() const;
+
+    double loop();
+
+    vector<Actie *> &getActies();
+
+    const string &getNaam() const;
 };
 
 

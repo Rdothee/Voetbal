@@ -9,12 +9,16 @@
 #include "Actie.h"
 
 class Redding : public Actie{
-    int aantalReddingen;
+
+    bool redding;
 public:
-    Redding();
-    void red();
+    Redding(bool geslaagd);
+
     virtual ~Redding();
 
+    bool isRedding() const;
+
+    Redding();
 };
 
 

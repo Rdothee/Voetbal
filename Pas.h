@@ -10,17 +10,17 @@
 
 class Pas : public Actie{
 private:
-    int aantalGeslaagdePasses;
-    int aantalSlechtePasses;
+    bool goedePas;
 public:
     Pas(bool geslaagd);
     virtual ~Pas();
-    void goeiePas();
-    void slechtePas();
 
-    int getAantalGeslaagdePasses() const;
 
-    int getAantalSlechtePasses() const;
+
+
+    Pas();
+
+    bool isGoedePas() const;
 };
 
 

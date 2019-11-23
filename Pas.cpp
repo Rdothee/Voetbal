@@ -5,30 +5,13 @@
 #include "Pas.h"
 
 Pas::Pas(bool geslaagd) {
-    if (geslaagd) {
-        aantalGeslaagdePasses++;
-
-    } else {
-        aantalSlechtePasses++;
-    }
+    this->goedePas;
 }
-
+Pas::Pas(){}
 Pas::~Pas() {
 
 }
 
-void Pas::goeiePas() {
-    aantalGeslaagdePasses++;
-}
-
-void Pas::slechtePas() {
-    aantalSlechtePasses++;
-}
-
-int Pas::getAantalGeslaagdePasses() const {
-    return aantalGeslaagdePasses;
-}
-
-int Pas::getAantalSlechtePasses() const {
-    return aantalSlechtePasses;
+bool Pas::isGoedePas() const {
+    return goedePas;
 }
