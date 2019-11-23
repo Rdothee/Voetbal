@@ -15,7 +15,7 @@ class Team {
     string naam;
     const int halveKmGelopen=5;
     const int geslaagdeActie=10;
-    const int gefaaldeActie=-5;
+    const int gefaaldeActie= 5;
 
 public:
     Team(string naam);

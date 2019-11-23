@@ -15,11 +15,6 @@ public:
     Pas(bool geslaagd);
     virtual ~Pas();
 
-
-
-
-    Pas();
-
     bool isGoedePas() const;
 };
 

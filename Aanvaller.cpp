@@ -4,7 +4,7 @@
 
 #include "Aanvaller.h"
 #include "Schiet.h"
-#include <iostream>;
+#include <iostream>
 using namespace std;
 Aanvaller::Aanvaller(string naam) : Speler(naam) {
 

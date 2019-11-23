@@ -12,12 +12,12 @@ class Verdediger : public Speler{
 private:
     int aantalGeslaagdeTakles;
     int aantalGefaaldeTakles;
-    int aantalTakles;
+    int totaalAantalTakles;
 public:
     Verdediger(string naam);
 
     virtual ~Verdediger();
-    void verdedig();
+
 
 
     void tackleStatistiek();
@@ -26,7 +26,7 @@ public:
 
     int getAantalGefaaldeTakles() const;
 
-    int getAantalTakles() const;
+    int getTotaalAantalTakles() const;
 };
 
 

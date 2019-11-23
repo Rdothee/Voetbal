@@ -10,13 +10,15 @@
 
 class Keeper : public Speler{
 private:
-    void reddingStatistiek();
+
     int aantalReddingen;
     int aantalTegenGoals;
 public:
     Keeper(string naam);
 
     virtual ~Keeper();
+
+    void reddingStatistiek();
 
     int getAantalReddingen() const;
 

@@ -177,33 +177,6 @@ Actie.cpp.s:
 	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/Actie.cpp.s
 .PHONY : Actie.cpp.s
 
-BalOnderscheppen.o: BalOnderscheppen.cpp.o
-
-.PHONY : BalOnderscheppen.o
-
-# target to build an object file
-BalOnderscheppen.cpp.o:
-	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.o
-.PHONY : BalOnderscheppen.cpp.o
-
-BalOnderscheppen.i: BalOnderscheppen.cpp.i
-
-.PHONY : BalOnderscheppen.i
-
-# target to preprocess a source file
-BalOnderscheppen.cpp.i:
-	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.i
-.PHONY : BalOnderscheppen.cpp.i
-
-BalOnderscheppen.s: BalOnderscheppen.cpp.s
-
-.PHONY : BalOnderscheppen.s
-
-# target to generate assembly for a file
-BalOnderscheppen.cpp.s:
-	$(MAKE) -f CMakeFiles/Voetbal.dir/build.make CMakeFiles/Voetbal.dir/BalOnderscheppen.cpp.s
-.PHONY : BalOnderscheppen.cpp.s
-
 Keeper.o: Keeper.cpp.o
 
 .PHONY : Keeper.o
@@ -516,9 +489,6 @@ help:
 	@echo "... Actie.o"
 	@echo "... Actie.i"
 	@echo "... Actie.s"
-	@echo "... BalOnderscheppen.o"
-	@echo "... BalOnderscheppen.i"
-	@echo "... BalOnderscheppen.s"
 	@echo "... Keeper.o"
 	@echo "... Keeper.i"
 	@echo "... Keeper.s"

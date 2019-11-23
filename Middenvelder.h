@@ -12,7 +12,7 @@ class Middenvelder : public Speler {
 private:
     int aantalGeslaagdePasses;
     int aantalSlechtePasses;
-    int aantalPasses;
+    int totaalAantalPasses;
 
 public:
     Middenvelder(string naam);
@@ -20,13 +20,13 @@ public:
     virtual ~Middenvelder();
     int getAantalTakles();
 
-    void pasStatistieken(bool geslaagd);
+    void pasStatistieken();
 
     int getAantalGeslaagdePasses() const;
 
     int getAantalSlechtePasses() const;
 
-    int getAantalPasses() const;
+    int getTotaalAantalPasses() const;
 };
 
 

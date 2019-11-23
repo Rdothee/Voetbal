@@ -5,9 +5,9 @@
 #include "Pas.h"
 
 Pas::Pas(bool geslaagd) {
-    this->goedePas;
+    this->goedePas=geslaagd;
 }
-Pas::Pas(){}
+
 Pas::~Pas() {
 
 }

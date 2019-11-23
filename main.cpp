@@ -102,8 +102,11 @@ int main() {
     v1->addActie(loopKort);
     v1->addActie(loopKort);
     v1->addActie(slechteTakle);
+    v1->addActie(goedeTakle);
     v2->addActie(loopVer);
     v2->addActie(loopVer);
+    v2->addActie(goedeTakle);
+    v2->addActie(slechteTakle);
     v2->addActie(goedeTakle);
     v3->addActie(loopKort);
     v3->addActie(loopVer);
@@ -118,6 +121,10 @@ int main() {
     k2->addActie(redding);
 
     //statestieken
+
+    team->schrijfSpelers();
+
+    //selecteren van spelers
 
 
 

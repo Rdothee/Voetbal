@@ -11,7 +11,7 @@ Middenvelder::~Middenvelder() {
 
 }
 
-void Middenvelder::pasStatistieken(bool geslaagd){
+void Middenvelder::pasStatistieken() {
     for(vector<Actie *>::iterator it = getActies().begin();it != getActies().end();++it){
         Pas* pas;
         pas = dynamic_cast<Pas*>(*it); //downcast van Actie naar Pas
@@ -19,7 +19,7 @@ void Middenvelder::pasStatistieken(bool geslaagd){
             if(pas->isGoedePas()){
                 aantalGeslaagdePasses++;
             } else{aantalSlechtePasses++;}
-            aantalPasses++;
+            totaalAantalPasses++;
         }
     }
 }
@@ -33,7 +33,7 @@ int Middenvelder::getAantalSlechtePasses() const {
     return aantalSlechtePasses;
 }
 
-int Middenvelder::getAantalPasses() const {
-    return aantalPasses;
+int Middenvelder::getTotaalAantalPasses() const {
+    return totaalAantalPasses;
 }
 

@@ -14,12 +14,12 @@ Verdediger::~Verdediger() {
 
 void Verdediger::tackleStatistiek(){
     for(vector<Actie *>::iterator it = getActies().begin();it != getActies().end();++it){
-        Takle* takle = dynamic_cast<Takle*>(*it); //downcast van Actie naar Pas
+        Takle* takle = dynamic_cast<Takle*>(*it); //downcast van Actie naar Takle
         if(takle != NULL){
             if(takle->isGeslaagd()){
                 aantalGeslaagdeTakles++;
             } else{aantalGefaaldeTakles++;}
-            aantalTakles++;
+            totaalAantalTakles++;
         }
     }
 }
@@ -32,6 +32,6 @@ int Verdediger::getAantalGefaaldeTakles() const {
     return aantalGefaaldeTakles;
 }
 
-int Verdediger::getAantalTakles() const {
-    return aantalTakles;
+int Verdediger::getTotaalAantalTakles() const {
+    return totaalAantalTakles;
 }

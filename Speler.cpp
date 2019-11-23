@@ -5,7 +5,7 @@
 #include "Speler.h"
 #include "Loop.h"
 #include "Pas.h"
-#include<iostream>;
+#include<iostream>
 using namespace std;
 
 

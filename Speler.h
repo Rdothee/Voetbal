@@ -5,7 +5,7 @@
 #ifndef VOETBAL_SPELER_H
 #define VOETBAL_SPELER_H
 
-#include "Vector";
+#include "Vector"
 #include <iostream>
 #include "Actie.h"
 using namespace std;

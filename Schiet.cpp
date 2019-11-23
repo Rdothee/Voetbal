@@ -12,7 +12,7 @@ Schiet::Schiet(bool gescoord) {
    this->gescoord = gescoord;
 }
 
-}
+
 Schiet::Schiet(){}
 Schiet::~Schiet() {
 
