@@ -9,6 +9,10 @@
 #include "Verdediger.h"
 #include "Keeper.h"
 #include <cmath>
+#include<iostream>
+#include <algorithm>
+
+using namespace std;
 
 Team::Team(string naam) {
     this->naam = naam;

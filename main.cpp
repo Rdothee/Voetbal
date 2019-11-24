@@ -124,17 +124,26 @@ int main() {
 
     team->schrijfSpelers();
 
-    //selecteren van spelers
-
-
-
-
-
-
-//    a1.addActie(loop);
-//    a1.addActie(pasStatistieken);
-//    Redding * reddingStatistiek = new Redding();
-//    k1.addActie(reddingStatistiek);
+    delete loopVer;
+    delete loopKort;
+    delete goedePas;
+    delete slechtePas;
+    delete scoord;
+    delete mist;
+    delete slechteTakle;
+    delete redding;
+    delete tegenPunt;
+    delete a1;
+    delete a2;
+    delete a3;
+    delete m1;
+    delete m2;
+    delete m3;
+    delete v1;
+    delete v2;
+    delete v3;
+    delete k1;
+    delete k2;
 
 }
 

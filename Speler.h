@@ -25,9 +25,6 @@ public:
     void setAantalPunten(int aantalPunten);
     void addActie(Actie * actie);
 
-
-    const vector<Actie *> &getActies() const;
-
     double loop();
 
     vector<Actie *> &getActies();

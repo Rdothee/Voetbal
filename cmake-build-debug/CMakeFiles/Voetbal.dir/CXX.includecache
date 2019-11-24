@@ -6,7 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/main.cpp
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.h
+
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.h
+Actie.h
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.h
+
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.h
+Actie.h
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.h
+
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.cpp
+Speler.h
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.h
+Loop.h
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Loop.h
+Pas.h
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Pas.h
 iostream
 -
+
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Speler.h
+Vector
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Vector
+iostream
+-
+Actie.h
+/cygdrive/d/SCHOOL/KUleuven/OOprogramming/Voetbal/Actie.h
 

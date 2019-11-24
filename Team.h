@@ -26,7 +26,6 @@ public:
 
     const vector<Speler*> & getSpelers() const;
 
-
     void schrijfSpelers();
 };
 
